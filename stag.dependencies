@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "device_google_pantah",
+    "target_path": "device/google/pantah"
+  },
+  {
+    "repository": "the-muppets/proprietary_vendor_google_panther",
+    "target_path": "vendor/google/panther",
+    "remote": "gitlab",
+    "branch": "lineage-20"
+  }
+]
