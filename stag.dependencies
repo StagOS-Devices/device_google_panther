@@ -4,9 +4,8 @@
     "target_path": "device/google/pantah"
   },
   {
-    "repository": "the-muppets/proprietary_vendor_google_panther",
+    "repository": "vendor_google_panther",
     "target_path": "vendor/google/panther",
-    "remote": "gitlab",
-    "branch": "lineage-20"
+    "remote": "gitlab-stag"
   }
 ]
